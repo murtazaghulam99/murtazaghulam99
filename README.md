@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Frontend Web Development**
 
 - 📫 How to reach me **ghulammurtaza.munir@yahoo.com**
 
