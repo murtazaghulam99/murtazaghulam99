@@ -18,7 +18,7 @@
 <br>
 
 - A passionate Self-taught Front-end developer
-- Currently learning React JS by practicing handson Modern UI/UX projects.
+- Currently learning React JS by practicing handson Modern UI/UX and Next JS projects.
 - I’m currently open for an Intern or a new job opportunity, looking forward to it.
 
 <br><br>
