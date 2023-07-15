@@ -97,7 +97,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/ghulammurtazamunir/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: Ghulam Murtaza-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -105,7 +105,7 @@
 
 <li>
   <a href="mailto:ghulammurtaza.munir@yahoo.com" target="_blank">
-    <img src="https://img.shields.io/badge/yahoo: Ghulam Murtaza-%230077B5.svg?style=for-the-badge&logo=yahoo&logoColor=white" alt="yahoo" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/yahoo: -%230077B5.svg?style=for-the-badge&logo=yahoo&logoColor=white" alt="yahoo" style="margin-bottom: 5px;" />
   </a>
 </li>
 
