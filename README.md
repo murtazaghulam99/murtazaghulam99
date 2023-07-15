@@ -38,9 +38,6 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   ![Vue.js](https://img.shields.io/badge/Vue.js%20-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D)
-   ![Angular](https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-   ![Svelte](https://img.shields.io/badge/Svelte%20-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
    ![Next.js](https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=next-dot-js&logoColor=white)
     
 <br>
@@ -107,9 +104,7 @@
 <br>
 
 <li>
-<a href="mailto:ghulammurtaza.m
-
-unir@yahoo.com" target="_blank">
+<a href="mailto:ghulammurtaza.munir@yahoo.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail: Ghulam Murtaza-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
