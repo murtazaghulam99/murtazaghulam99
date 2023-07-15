@@ -104,10 +104,11 @@
 <br>
 
 <li>
-<a href="mailto:ghulammurtaza.munir@yahoo.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail: Ghulam Murtaza-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
+  <a href="mailto:ghulammurtaza.munir@yahoo.com" target="_blank">
+    <img src="https://img.shields.io/badge/yahoo: Ghulam Murtaza-%230077B5.svg?style=for-the-badge&logo=yahoo&logoColor=white" alt="yahoo" style="margin-bottom: 5px;" />
+  </a>
 </li>
+
 	
 </ul>
 </div>
