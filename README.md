@@ -10,18 +10,22 @@
 
 
 	
-<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>**About Me**
+<div>
+  <img align="left" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50" alt="About Me">
+  <h2>About Me</h2>
+</div>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<div>
+  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250" alt="Right Side Image">
+</div>
 
-<br>
+<p>
+  Welcome to my world of limitless possibilities and boundless creativity!<br>
+  I am an enthusiastic self-taught front-end software developer, constantly pushing the boundaries of innovation.<br>
+  Currently, I'm immersing myself in the depths of full-stack software development, unleashing my potential through real-world projects.<br>
+  I'm eagerly seeking thrilling opportunities to apply my skills and make a lasting impact!
+</p>
 
-- Welcome to my world of limitless possibilities and boundless creativity!
-- I am an enthusiastic self-taught front-end software developer, constantly pushing the boundaries of innovation.
-- Currently, I'm immersing myself in the depths of full-stack software development, unleashing my potential through real-world projects.
-- I'm eagerly seeking thrilling opportunities to apply my skills and make a lasting impact!
-
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
