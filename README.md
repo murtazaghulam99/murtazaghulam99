@@ -20,10 +20,10 @@
 </div>
 
 <p>
-  Welcome to my world of limitless possibilities and boundless creativity!<br>
-  I am an enthusiastic self-taught front-end software developer, constantly pushing the boundaries of innovation.<br>
-  Currently, I'm immersing myself in the depths of full-stack software development, unleashing my potential through real-world projects.<br>
-  I'm eagerly seeking thrilling opportunities to apply my skills and make a lasting impact!
+ - Welcome to my world of limitless possibilities and boundless creativity!<br>
+ - I am an enthusiastic self-taught front-end software developer, constantly pushing the boundaries of innovation.<br>
+ - Currently, I'm immersing myself in the depths of full-stack software development, unleashing my potential through real-world projects.<br>
+ - I'm eagerly seeking thrilling opportunities to apply my skills and make a lasting impact!
 </p>
 
 
